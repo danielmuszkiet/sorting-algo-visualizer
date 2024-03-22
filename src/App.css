@@ -1,0 +1,46 @@
+.test {
+  background-color: rgb(221, 221, 221);
+  border: 1px solid rgb(169, 169, 169);
+  margin: 1px;
+  width: 100%;
+}
+
+.arr {
+  min-width: 500px;
+  border: 1px solid rgb(147, 137, 137);
+  padding-top: 15px;
+  display: flex;
+  height: 500px;
+  align-items: flex-end;
+}
+
+button {
+  border: none;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 3px;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.startbtn {
+  background-color: rgb(153, 159, 166);
+}
+
+.controls {
+  margin-top: 10px;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-around;
+  background-color: rgba(1, 97, 110, 0.215);
+  border-radius: 5px;
+}
+
+
+button:hover {
+  filter: brightness(90%);
+}
+
+button:disabled {
+  filter: none
+}
