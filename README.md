@@ -13,3 +13,5 @@ The visualizer provides an intuitive graphical representation of how each algori
 1. Visualization of Bubble Sort, Insertion Sort, and Selection Sort algorithms.
 2. User-friendly interface for easy interaction.
 3. Input array customization for experimenting with various datasets.
+
+-> https://danielmuszkiet.github.io/sorting-algo-visualizer/
